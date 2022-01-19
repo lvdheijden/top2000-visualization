@@ -1,2 +1,4 @@
 # top2000-visualization
-Visualisatie van het aandeel van de top artiesten in de Top 2000 van het jaar 2021
+Visualization of the share of songs of the top artists in the Top 2000. Which artists are most often in the Top 2000? And what does this look like over the course of 20 years?
+
+*Collaborations with other artists are not included in the total number of songs for a specific artist.
